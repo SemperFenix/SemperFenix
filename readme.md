@@ -7,4 +7,4 @@ to 6-12 years old students in extracurricular classes and in large workshops in 
 
 Now, I've decided to take a step forward and get myself some serious formation through the ISDI Coders full-stack web developer bootcamp.
 
-> **_This profile is a work in progress..._**<
+> **_This profile is a work in progress..._**
