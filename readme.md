@@ -9,4 +9,3 @@ Now, I've decided to take a step forward, recurve and get myself some serious fo
 
 > **_This profile is a work in progress..._**
 
-![Vanilla JavaScript, Html5 and CSS](./2459628-middle.png)
