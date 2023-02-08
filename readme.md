@@ -11,4 +11,8 @@ Now, I've decided to take a step forward, recurve and get myself some serious fo
 
 ## Tools I'm learning
 
+<div align = "center">
+
 ![HTML5](./assets/images/HTML5Logo.svg) ![CSS3](./assets/images/CSSLogo.svg) ![Javascript](./assets/images/JSLogo.svg) ![Vite](./assets/images/ViteLogo.svg)  ![React](./assets/images/ReactLogo.svg)   ![npm](./assets/images/NpmLogo.svg)   ![Node.js](./assets/images/NodeLogo.svg)   ![Sass](./assets/images/SassLogo.svg)   ![Jest](./assets/images/JestLogo.svg)   ![Typescript](./assets/images/TSLogo.svg)
+
+</div>
