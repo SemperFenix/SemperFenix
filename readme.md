@@ -13,6 +13,6 @@ Now, I've decided to take a step forward, recurve and get myself some serious fo
 
 <div align = "center">
 
-![HTML5](./assets/images/HTML5Logo.svg) ![CSS3](./assets/images/CSSLogo.svg) ![Javascript](./assets/images/JSLogo.svg) ![Vite](./assets/images/ViteLogo.svg)  ![React](./assets/images/ReactLogo.svg) ![Redux](./assets/images/ReduxLogo.svg) ![Node.js](./assets/images/NodeLogo.svg)   ![Sass](./assets/images/SassLogo.svg)   ![Jest](./assets/images/JestLogo.svg) ![Typescript](./assets/images/TSLogo.svg)
+![HTML5](./assets/images/HTML5Logo.svg) ![CSS3](./assets/images/CSSLogo.svg) ![Javascript](./assets/images/JSLogo.svg) ![Vite](./assets/images/ViteLogo.svg) ![Netlify](./assets/images/NetlifyLogo.svg) ![Sonar](./assets/images/SonarLogo.svg) ![React](./assets/images/ReactLogo.svg) ![Angular](./assets/images/AngularLogo.svg) ![Redux](./assets/images/ReduxLogo.svg) ![Typescript](./assets/images/TSLogo.svg) ![Jest](./assets/images/JestLogo.svg) ![Node.js](./assets/images/NodeLogo.svg) ![MongoDB](./assets/images/MongoLogo.svg) ![Express](./assets/images/ExpressJSLogo.svg) ![Postman](./assets/images/PostmanLogo.svg) ![Firebase](./assets/images/FirebaseLogo.svg) ![Sass](./assets/images/SassLogo.svg)
 
 </div>
